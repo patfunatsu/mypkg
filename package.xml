@@ -2,7 +2,7 @@
 <package format="2">
   <name>mypkg</name>
   <version>0.0.0</version>
-  <description>The mypkg package</description>
+  <description>The mypkg package examples</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
